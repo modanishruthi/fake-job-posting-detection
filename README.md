@@ -4,7 +4,7 @@ An AI-powered web application that detects fraudulent job postings to protect jo
 
 ## Live Demo
 [Click here to view the app]
-fake-job-posting-detection-gjy6oeowseux7nc2yucmsp.streamlit.app
+https://fake-job-posting-detection-gjy6oeowseux7nc2yucmsp.streamlit.app/
 (#) <!-- add streamlit link after deployment -->
 
 ## Features
