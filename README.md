@@ -3,7 +3,9 @@
 An AI-powered web application that detects fraudulent job postings to protect job seekers using NLP and Machine Learning.
 
 ## Live Demo
-[Click here to view the app](#) <!-- add streamlit link after deployment -->
+[Click here to view the app]
+fake-job-posting-detection-gjy6oeowseux7nc2yucmsp.streamlit.app
+(#) <!-- add streamlit link after deployment -->
 
 ## Features
 - Detects fake vs real job postings with confidence score
